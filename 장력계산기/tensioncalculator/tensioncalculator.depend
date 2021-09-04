@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608371114 source:d:\programing\c 저장\장력계산기\tensioncalculator\main.cpp
+	<stdio.h>
+	<math.h>
+
+1608372317 source:d:\programing\c\장력계산기\tensioncalculator\main.cpp
+	<stdio.h>
+	<math.h>
+

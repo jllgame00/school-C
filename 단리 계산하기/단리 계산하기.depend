@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595854277 source:d:\programing\c 저장\단리 복리 계산하기\main.c
+	<stdio.h>
+
+1514140574 source:d:\programing\c 저장\단리 계산하기\main.cpp
+	<iostream>
+
